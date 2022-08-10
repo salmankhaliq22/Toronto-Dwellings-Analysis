@@ -2,7 +2,7 @@
 
 # Pythonic-Monopoly
 
-![Toronto](Images/toronto(1).jpg)
+![Toronto](./toronto(1).jpg)
 
 ## Real Estate Analysis of Toronto from 2001 to 2016
 In this Repository, you can find the following tasks:
